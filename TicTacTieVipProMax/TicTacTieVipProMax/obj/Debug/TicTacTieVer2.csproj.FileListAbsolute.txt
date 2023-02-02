@@ -1,0 +1,11 @@
+C:\Users\Đào Đức Hưng\source\repos\TicTacTieVipProMax\TicTacTieVipProMax\obj\Debug\TicTacTieVer2.csproj.AssemblyReference.cache
+C:\Users\Đào Đức Hưng\source\repos\TicTacTieVipProMax\TicTacTieVipProMax\obj\Debug\TicTacTieVer2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Đào Đức Hưng\source\repos\TicTacTieVipProMax\TicTacTieVipProMax\obj\Debug\TicTacTieVer2.csproj.GenerateResource.cache
+C:\Users\Đào Đức Hưng\source\repos\TicTacTieVipProMax\TicTacTieVipProMax\obj\Debug\TicTacTieVipProMax.exe
+C:\Users\Đào Đức Hưng\source\repos\TicTacTieVipProMax\TicTacTieVipProMax\obj\Debug\TicTacTieVipProMax.pdb
+C:\Users\Đào Đức Hưng\source\repos\TicTacTieVipProMax\TicTacTieVipProMax\bin\Debug\TicTacTieVipProMax.exe.config
+C:\Users\Đào Đức Hưng\source\repos\TicTacTieVipProMax\TicTacTieVipProMax\bin\Debug\TicTacTieVipProMax.exe
+C:\Users\Đào Đức Hưng\source\repos\TicTacTieVipProMax\TicTacTieVipProMax\bin\Debug\TicTacTieVipProMax.pdb
+C:\Users\Đào Đức Hưng\source\repos\TicTacTieVipProMax\TicTacTieVipProMax\obj\Debug\TicTacTieVipProMax.Properties.Resources.resources
+C:\Users\Đào Đức Hưng\source\repos\TicTacTieVipProMax\TicTacTieVipProMax\obj\Debug\TicTacTieVer2.csproj.CoreCompileInputs.cache
+C:\Users\Đào Đức Hưng\source\repos\TicTacTieVipProMax\TicTacTieVipProMax\obj\Debug\TicTacTieVer2.TicTacToe.resources
